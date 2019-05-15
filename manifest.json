@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+
+  "name": "Web Accesibility Helper",
+  "version": "0.1.0",
+  "description": "Increases web site accessibility out of the box.",
+
+  "content_scripts": [
+	  {
+	    "matches": [
+	      "<all_urls>"
+	    ],
+	    "js": ["bundle.js"]
+	  }
+  ]
+
+}
