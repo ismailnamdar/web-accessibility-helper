@@ -1,4 +1,4 @@
-# web-accessibility-helper
+# 🌐 web-accessibility-helper
 
 It is a browser extension for making web more acessible.
 
